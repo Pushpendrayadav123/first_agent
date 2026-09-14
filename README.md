@@ -2,4 +2,4 @@
 ## i have created by OpenAi Agent sdk framework with typescript language
 
 # Run
-pnpm run deb
+pnpm run dev
